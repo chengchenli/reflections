@@ -18,19 +18,20 @@ docs does?
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    Fill in your answer here
-
-    Bun B love you.
+    if a set of files need to be executed together then they should be saved in 
+    one commit. If each file is individually used from another, then we do not
+    need this function
 
 How can you use the commands git log and git diff to view the history of files?
 
-    Fill in your answer here
+    To see the commit comments we have saved, and to use git diff to compare the
+    changes between two commits.
 
 How might using version control make you more confident to make changes that
 could break something?
 
-    Fill in your answer here
+    I know I can always go back to a previously workig version.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    doing projects for machine learning course
